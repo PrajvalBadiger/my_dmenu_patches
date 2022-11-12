@@ -15,7 +15,7 @@ index 1edb647..9293a87 100644
 -	[SchemeNorm] = { "#bbbbbb", "#222222" },
 -	[SchemeSel] = { "#eeeeee", "#005577" },
 +	[SchemeNorm] = { "#bdae93", "#282828" },
-+	[SchemeSel] = { "#ebdbb2", "#cc241d" },
++	[SchemeSel] = { "#ebdbb2", "#504945" },
  	[SchemeOut] = { "#000000", "#00ffff" },
  };
  /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
